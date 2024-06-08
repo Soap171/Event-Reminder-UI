@@ -7,7 +7,7 @@ import Register from "./pages/Register";
 import About from "./pages/About";
 import Policy from "./pages/Policy";
 import Footer from "./components/Footer";
-import { DarkThemeToggle, Flowbite } from "flowbite-react";
+import { Flowbite } from "flowbite-react";
 
 function App() {
   return (
